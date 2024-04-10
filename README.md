@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhi16110
-- 👀 I’m interested in ethical hacking, java and python programming
+- 👀 I’m interested in ethical hacking and python programming
 - 🌱 I’m currently learning B.Sc.IT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... my email is ajitabhishek1@gmail.com
